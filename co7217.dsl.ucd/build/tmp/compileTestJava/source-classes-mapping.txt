@@ -1,0 +1,6 @@
+co7217/dsl/ucd/tests/UseCaseDSLInjectorProvider.java
+ co7217.dsl.ucd.tests.UseCaseDSLInjectorProvider
+ co7217.dsl.ucd.tests.UseCaseDSLInjectorProvider$1
+ co7217.dsl.ucd.tests.UseCaseDSLInjectorProvider$2
+co7217/dsl/ucd/tests/UseCaseDSLParsingTest.java
+ co7217.dsl.ucd.tests.UseCaseDSLParsingTest

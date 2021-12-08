@@ -1,0 +1,7 @@
+@startuml
+(EatFood)
+(PayForFood)
+:Guest: 
+Guest --> EatFood
+Guest --> PayForFood
+@enduml

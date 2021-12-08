@@ -1,0 +1,31 @@
+grammar co7217.dsl.ucd.UseCaseDSL with org.eclipse.xtext.common.Terminals
+
+generate useCaseDSL "http://www.dsl.co7217/ucd/UseCaseDSL"
+
+Diagram:
+	(elements += AbstractElement)*
+;
+
+AbstractElement:
+  UseCases | Actors
+;
+
+UseCases:
+	'use cases:'
+    (useCase += Usecase)*
+;
+
+Usecase:
+	'useCase' name = ID '(' instructions = STRING ')'
+;
+
+Actors:
+	'actors:'
+    	(actor += Actor)*
+;
+
+Actor:
+	'actor' name = ID ('extends' Type = [Actor])? '=>' usecase += [Usecase]* (',' usecase+= [Usecase])*
+;
+
+

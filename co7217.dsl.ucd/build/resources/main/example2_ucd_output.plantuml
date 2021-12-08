@@ -1,0 +1,8 @@
+@startuml
+(EatFood)
+(Review)
+:Guest: 
+Guest --> EatFood
+:FoodCritic: -up-|>Guest
+FoodCritic --> Review
+@enduml

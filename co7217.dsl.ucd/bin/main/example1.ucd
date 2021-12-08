@@ -1,0 +1,6 @@
+use cases:
+	useCase EatFood ( "The guest arrives with the order and gets the food" )
+	useCase PayForFood ( "The guest orders food via the app and pays online" )
+
+actors:
+	actor Guest => EatFood, PayForFood

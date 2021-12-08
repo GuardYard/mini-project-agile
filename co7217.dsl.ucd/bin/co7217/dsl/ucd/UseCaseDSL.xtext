@@ -1,0 +1,9 @@
+grammar co7217.dsl.ucd.UseCaseDSL with org.eclipse.xtext.common.Terminals
+
+generate useCaseDSL "http://www.dsl.co7217/ucd/UseCaseDSL"
+
+Model:
+	greetings+=Greeting*;
+	
+Greeting:
+	'Hello' name=ID '!';

@@ -1,0 +1,79 @@
+co7217/dsl/ucd/useCaseDSL/Actor.java
+ co7217.dsl.ucd.useCaseDSL.Actor
+co7217/dsl/ucd/useCaseDSL/impl/DiagramImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.DiagramImpl
+co7217/dsl/ucd/serializer/UseCaseDSLSyntacticSequencer.java
+ co7217.dsl.ucd.serializer.UseCaseDSLSyntacticSequencer
+co7217/dsl/ucd/validation/AbstractUseCaseDSLValidator.java
+ co7217.dsl.ucd.validation.AbstractUseCaseDSLValidator
+co7217/dsl/ucd/scoping/AbstractUseCaseDSLScopeProvider.java
+ co7217.dsl.ucd.scoping.AbstractUseCaseDSLScopeProvider
+co7217/dsl/ucd/services/UseCaseDSLGrammarAccess.java
+ co7217.dsl.ucd.services.UseCaseDSLGrammarAccess
+ co7217.dsl.ucd.services.UseCaseDSLGrammarAccess$AbstractElementElements
+ co7217.dsl.ucd.services.UseCaseDSLGrammarAccess$ActorElements
+ co7217.dsl.ucd.services.UseCaseDSLGrammarAccess$ActorsElements
+ co7217.dsl.ucd.services.UseCaseDSLGrammarAccess$DiagramElements
+ co7217.dsl.ucd.services.UseCaseDSLGrammarAccess$UseCasesElements
+ co7217.dsl.ucd.services.UseCaseDSLGrammarAccess$UsecaseElements
+co7217/dsl/ucd/validation/UseCaseDSLConfigurableIssueCodesProvider.java
+ co7217.dsl.ucd.validation.UseCaseDSLConfigurableIssueCodesProvider
+co7217/dsl/ucd/validation/UseCaseDSLValidator.java
+ co7217.dsl.ucd.validation.UseCaseDSLValidator
+co7217/dsl/ucd/useCaseDSL/util/UseCaseDSLAdapterFactory.java
+ co7217.dsl.ucd.useCaseDSL.util.UseCaseDSLAdapterFactory
+ co7217.dsl.ucd.useCaseDSL.util.UseCaseDSLAdapterFactory$1
+co7217/dsl/ucd/useCaseDSL/impl/ActorImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.ActorImpl
+co7217/dsl/ucd/useCaseDSL/impl/UsecaseImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.UsecaseImpl
+co7217/dsl/ucd/UseCaseDSLStandaloneSetupGenerated.java
+ co7217.dsl.ucd.UseCaseDSLStandaloneSetupGenerated
+co7217/dsl/ucd/useCaseDSL/impl/UseCaseDSLFactoryImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.UseCaseDSLFactoryImpl
+co7217/dsl/ucd/parser/antlr/UseCaseDSLParser.java
+ co7217.dsl.ucd.parser.antlr.UseCaseDSLParser
+co7217/dsl/ucd/useCaseDSL/impl/UseCasesImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.UseCasesImpl
+co7217/dsl/ucd/UseCaseDSLStandaloneSetup.java
+ co7217.dsl.ucd.UseCaseDSLStandaloneSetup
+co7217/dsl/ucd/UseCaseDSLRuntimeModule.java
+ co7217.dsl.ucd.UseCaseDSLRuntimeModule
+co7217/dsl/ucd/parser/antlr/internal/InternalUseCaseDSLLexer.java
+ co7217.dsl.ucd.parser.antlr.internal.InternalUseCaseDSLLexer
+ co7217.dsl.ucd.parser.antlr.internal.InternalUseCaseDSLLexer$DFA12
+co7217/dsl/ucd/useCaseDSL/UseCaseDSLPackage.java
+ co7217.dsl.ucd.useCaseDSL.UseCaseDSLPackage
+ co7217.dsl.ucd.useCaseDSL.UseCaseDSLPackage$Literals
+co7217/dsl/ucd/useCaseDSL/Actors.java
+ co7217.dsl.ucd.useCaseDSL.Actors
+co7217/dsl/ucd/useCaseDSL/impl/AbstractElementImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.AbstractElementImpl
+co7217/dsl/ucd/serializer/UseCaseDSLSemanticSequencer.java
+ co7217.dsl.ucd.serializer.UseCaseDSLSemanticSequencer
+co7217/dsl/ucd/scoping/UseCaseDSLScopeProvider.java
+ co7217.dsl.ucd.scoping.UseCaseDSLScopeProvider
+co7217/dsl/ucd/parser/antlr/UseCaseDSLAntlrTokenFileProvider.java
+ co7217.dsl.ucd.parser.antlr.UseCaseDSLAntlrTokenFileProvider
+co7217/dsl/ucd/generator/UseCaseDSLGenerator.java
+ co7217.dsl.ucd.generator.UseCaseDSLGenerator
+co7217/dsl/ucd/useCaseDSL/UseCases.java
+ co7217.dsl.ucd.useCaseDSL.UseCases
+co7217/dsl/ucd/parser/antlr/internal/InternalUseCaseDSLParser.java
+ co7217.dsl.ucd.parser.antlr.internal.InternalUseCaseDSLParser
+co7217/dsl/ucd/useCaseDSL/AbstractElement.java
+ co7217.dsl.ucd.useCaseDSL.AbstractElement
+co7217/dsl/ucd/useCaseDSL/impl/ActorsImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.ActorsImpl
+co7217/dsl/ucd/useCaseDSL/util/UseCaseDSLSwitch.java
+ co7217.dsl.ucd.useCaseDSL.util.UseCaseDSLSwitch
+co7217/dsl/ucd/useCaseDSL/Diagram.java
+ co7217.dsl.ucd.useCaseDSL.Diagram
+co7217/dsl/ucd/useCaseDSL/UseCaseDSLFactory.java
+ co7217.dsl.ucd.useCaseDSL.UseCaseDSLFactory
+co7217/dsl/ucd/AbstractUseCaseDSLRuntimeModule.java
+ co7217.dsl.ucd.AbstractUseCaseDSLRuntimeModule
+co7217/dsl/ucd/useCaseDSL/impl/UseCaseDSLPackageImpl.java
+ co7217.dsl.ucd.useCaseDSL.impl.UseCaseDSLPackageImpl
+co7217/dsl/ucd/useCaseDSL/Usecase.java
+ co7217.dsl.ucd.useCaseDSL.Usecase

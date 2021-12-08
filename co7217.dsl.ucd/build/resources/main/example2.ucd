@@ -1,0 +1,7 @@
+use cases:
+	useCase EatFood ( "The guest arrives with the order and gets the food" )
+	useCase Review ( "After tasting a plat, a review is entered on the app" )
+	
+actors:
+	actor Guest => EatFood
+	actor FoodCritic extends Guest => Review

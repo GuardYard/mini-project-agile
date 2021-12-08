@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co7217.dsl.ucd.tests.UseCaseDSLParsingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-03T18:53:19" hostname="guardyard-HP-Notebook" time="1.884">
+  <properties/>
+  <testcase name="loadModel()" classname="co7217.dsl.ucd.tests.UseCaseDSLParsingTest" time="1.884"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
