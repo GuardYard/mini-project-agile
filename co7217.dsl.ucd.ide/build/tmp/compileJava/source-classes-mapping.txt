@@ -1,0 +1,16 @@
+co7217/dsl/ucd/ide/UseCaseDSLIdeModule.java
+ co7217.dsl.ucd.ide.UseCaseDSLIdeModule
+co7217/dsl/ucd/ide/UseCaseDSLIdeSetup.java
+ co7217.dsl.ucd.ide.UseCaseDSLIdeSetup
+co7217/dsl/ucd/ide/AbstractUseCaseDSLIdeModule.java
+ co7217.dsl.ucd.ide.AbstractUseCaseDSLIdeModule
+co7217/dsl/ucd/ide/contentassist/antlr/UseCaseDSLParser.java
+ co7217.dsl.ucd.ide.contentassist.antlr.UseCaseDSLParser
+ co7217.dsl.ucd.ide.contentassist.antlr.UseCaseDSLParser$NameMappings
+co7217/dsl/ucd/ide/contentassist/antlr/internal/InternalUseCaseDSLParser.java
+ co7217.dsl.ucd.ide.contentassist.antlr.internal.InternalUseCaseDSLParser
+co7217/dsl/ucd/ide/contentassist/antlr/internal/InternalUseCaseDSLLexer.java
+ co7217.dsl.ucd.ide.contentassist.antlr.internal.InternalUseCaseDSLLexer
+ co7217.dsl.ucd.ide.contentassist.antlr.internal.InternalUseCaseDSLLexer$DFA12
+co7217/dsl/ucd/ide/contentassist/antlr/PartialUseCaseDSLContentAssistParser.java
+ co7217.dsl.ucd.ide.contentassist.antlr.PartialUseCaseDSLContentAssistParser
